@@ -1,0 +1,22 @@
+# Session 1
+https://bookdown.org/rdpeng/rprogdatascience/ - R Programming for Data Science (Roger Peng) – Ch. 3, 4, 5, 9
+https://swirlstats.com/students.html - Swirl – Interactive learning
+https://r4ds.had.co.nz/transform.html - R for Data Science (Hadley Wickham) – Using Dplyr verbs
+https://cran.r-project.org/web/packages/data.table/vignettes/datatable-intro.html - The data.table package – Intro
+https://atrebas.github.io/post/2019-03-03-datatable-dplyr/ - A data.table and Dplyr tour – Side by side comparison of functions
+https://www.rstudio.com/resources/cheatsheets/ - Cheatsheets – quick reference for tasks like data wrangling, visualisation, and several packages
+
+
+# Session 2
+https://r-graph-gallery.com/ – Examples of the kinds of graphs and plots possible in R (+ the code to create them)
+https://link.springer.com/book/10.1007/0-387-28695-0 - The Grammar of Graphics (Leland Wilkinson) – Theory of graphical visualisation (SpringerLink book – free access through Uni of Oxford Bodleian subscription)
+https://ggplot2.tidyverse.org/ - ggplot2 reference – Help and cheatsheet
+https://exts.ggplot2.tidyverse.org/gallery/ - ggplot2 extensions – Additional packages that extend ggplot2 functionality
+https://www.data-to-viz.com/ - From Data to Viz – Decision tree to choose an appropriate chart type for your data
+
+
+# Session 3
+https://github.com/EmilHvitfeldt/r-color-palettes - a huge list of R palettes
+https://colorbrewer2.org/ - RColorBrewer package based on this tool by Cynthia Brewer
+https://jokergoo.github.io/ComplexHeatmap-reference/book/ - R package to produce Complex Heatmaps
+
